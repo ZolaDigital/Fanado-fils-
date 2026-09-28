@@ -1,0 +1,13 @@
+Site Fanado et Fils - dossier prêt pour Vercel
+
+Contenu :
+- index.html : le site (une seule page)
+- photo.jpg  : la photo du showroom (ne pas renommer)
+
+Mise en ligne sur Vercel :
+1. Sur vercel.com, ouvrez le projet fanado-et-fils (ou créez-en un nouveau).
+2. Glissez le dossier "fanado-et-fils" (dézippé) dans Vercel, ou utilisez la commande :
+   vercel --prod   (depuis ce dossier)
+3. Framework : "Other". Aucune commande de build.
+
+À compléter dans index.html : liens Facebook / LinkedIn, site web.
